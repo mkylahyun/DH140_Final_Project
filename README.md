@@ -1,6 +1,6 @@
 # DH140_Final_Project
 
-## Data and viz of interest
+### Data and viz of interest
 > I looked into a journal article that relates data science to a humanities topic of interest, human behavior. I also included an image of a data visualization I would like to know how to make with Python.
 
 https://files.eric.ed.gov/fulltext/EJ1285389.pdf
@@ -13,7 +13,7 @@ Data science and human behavior interests me because humans are complex and anal
 
 I would love to know how to make this data visualization with Python because it is clean, aesthetically pleasing, and easy to understand. 
 
-## Ideas for data to investigate 
+### Ideas for data to investigate 
 > I've listed below some humanities topics of interest and link to data/articles that relate to those topics. 
 
 * Whether digital technology provides a better life
@@ -27,7 +27,7 @@ The topic on data visualization appeals to me the most because I am a big visual
 3. https://www.psychologytoday.com/us/blog/the-art-living-free/202106/how-social-media-exploits-our-loneliness#:~:text=Key%20points,social%20media%20creates%20more%20disconnection
 4. https://www.techtarget.com/searchbusinessanalytics/definition/data-visualization
 
-## Ideas from curated datasets & project lists
+### Ideas from curated datasets & project lists
 > I reviewed projects and datasets and made a table that includes the name of dataset of interest, a brief description of the data and how I might investigate it in a project, and the link to the data.
 
 Name | Description | Link 
