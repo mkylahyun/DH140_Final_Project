@@ -1,3 +1,5 @@
 spotipy
 pandas
 matplotlib
+seaborn
+plotly_express

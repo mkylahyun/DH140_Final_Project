@@ -1,0 +1,46 @@
+country,region,prevalence,cases,pop2023
+Ukraine,Europe,6.3,2800587,36744634.0
+United States,North America,5.9,17491047,339996563.0
+Australia,Oceania,5.9,1318599,26439111.0
+Brazil,South America,5.8,11548577,216422446.0
+Finland,Europe,5.6,293921,5545475.0
+New Zealand,Oceania,5.4,221338,5228100.0
+Germany,Europe,5.2,2116728,83294633.0
+Spain,Europe,5.2,2408700,47519628.0
+Czech Republic,Europe,5.2,525488,10495295.0
+Italy,Europe,5.1,3049986,58870762.0
+Poland,Europe,5.1,1878988,41026067.0
+Hungary,Europe,5.1,493783,10156239.0
+Austria,Europe,5.1,415916,8958960.0
+Romania,Europe,5.0,931842,19892812.0
+Chile,South America,5.0,844253,19629590.0
+Denmark,Europe,5.0,267213,5910913.0
+Sweden,Europe,4.9,446734,10612086.0
+Peru,South America,4.8,1443513,34352719.0
+Belgium,Europe,4.8,502075,11686140.0
+Ireland,Europe,4.8,212555,5056935.0
+Colombia,South America,4.7,2177280,52085168.0
+Argentina,South America,4.7,1914354,45773884.0
+Canada,North America,4.7,1566903,38781291.0
+Netherlands,Europe,4.7,752777,17618299.0
+Dominican Republic,North America,4.7,464164,11332972.0
+Norway,Europe,4.7,227446,5474360.0
+South Africa,Africa,4.6,2402230,60414495.0
+Israel,Asia,4.6,342181,9174520.0
+Singapore,Asia,4.6,162203,6014723.0
+India,Asia,4.5,56675969,1428627663.0
+United Kingdom,Europe,4.5,2692081,67736802.0
+Morocco,Africa,4.5,1484441,37840044.0
+Saudi Arabia,Asia,4.5,1339976,36947025.0
+Turkey,Asia,4.4,3260677,85816199.0
+Thailand,Asia,4.4,2885221,71801279.0
+Panama,North America,4.4,162293,4468087.0
+Mexico,North America,4.2,4936614,128455567.0
+Japan,Asia,4.2,5058124,123294513.0
+South Korea,Asia,4.1,1904645,51784059.0
+Vietnam,Asia,4.0,3564934,98858950.0
+Malaysia,Asia,3.8,1127643,34308525.0
+Indonesia,Asia,3.7,9162886,277534122.0
+Guatemala,North America,3.7,580994,18092026.0
+Egypt,Africa,3.5,2995824,112716598.0
+Philippines,Asia,3.3,3298652,117337368.0
