@@ -1,0 +1,451 @@
+rank,playlist,artist_name,track_name,track popularity,artist genre,acousticness,danceability,energy,instrumentalness,valence,track_id,Happiness Score,Depression Prevalence
+1,Top Songs - USA,Morgan Wallen,Last Night,83,contemporary country,0.467,0.492,0.675,0.0,0.478,7K3BhSpAxZBznislvUMVtn,6.977,5.9
+2,Top Songs - USA,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,6.977,5.9
+3,Top Songs - USA,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,6.977,5.9
+4,Top Songs - USA,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.977,5.9
+5,Top Songs - USA,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,6.977,5.9
+6,Top Songs - USA,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.977,5.9
+7,Top Songs - USA,Lil Uzi Vert,Just Wanna Rock,90,melodic rap,0.0652,0.486,0.545,0.00474,0.0385,4FyesJzVpA39hbYvcseO2d,6.977,5.9
+8,Top Songs - USA,Morgan Wallen,One Thing At A Time,79,contemporary country,0.00522,0.613,0.914,2.21e-06,0.916,1rXq0uoV4KTgRN64jXzIxo,6.977,5.9
+9,Top Songs - USA,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),95,rap,0.417,0.715,0.62,0.0,0.172,2dHHgzDwk4BJdRwy9uXhTO,6.977,5.9
+10,Top Songs - USA,Morgan Wallen,You Proof,78,contemporary country,0.265,0.732,0.839,0.0,0.629,5W4kiM2cUYBJXKRudNyxjW,6.977,5.9
+1,Top Songs - Mexico,Cartel De Santa,Shorty Party,87,latin hip hop,0.328,0.928,0.468,4.27e-06,0.47,55ZATsjPlTeSTNJOuW90pW,6.128,4.2
+2,Top Songs - Mexico,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.128,4.2
+3,Top Songs - Mexico,Peso Pluma,PRC,90,sad sierreno,0.0965,0.784,0.826,7.09e-05,0.893,2mpoNBkngUEwnaKoBhZ0vl,6.128,4.2
+4,Top Songs - Mexico,Natanael Cano,AMG,90,corrido,0.152,0.772,0.73,0.000107,0.786,1lRtH4FszTrwwlK5gTSbXO,6.128,4.2
+5,Top Songs - Mexico,Oscar Maydon,Fin de Semana,88,corrido,0.0628,0.699,0.541,0.0,0.365,6TBzRwnX2oYd8aOrOuyK1p,6.128,4.2
+6,Top Songs - Mexico,Chino Pacas,El Gordo Trae El Mando,87,corrido,0.179,0.736,0.8,0.0,0.961,3kf0WdFOalKWBkCCLJo4mA,6.128,4.2
+7,Top Songs - Mexico,Fuerza Regida,Ch y la Pizza,81,corrido,0.329,0.628,0.668,0.0,0.845,0UbesRsX2TtiCeamOIVEkp,6.128,4.2
+8,Top Songs - Mexico,Carin Leon,Que Vuelvas,89,corrido,0.187,0.491,0.643,0.0,0.779,6Um358vY92UBv5DloTRX9L,6.128,4.2
+9,Top Songs - Mexico,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",96,argentine hip hop,0.274,0.778,0.632,0.0,0.498,4nrPB8O7Y7wsOCJdgXkthe,6.128,4.2
+10,Top Songs - Mexico,Fuerza Regida,Bebe Dame,81,corrido,0.299,0.529,0.602,0.0,0.756,0IKeDy5bT9G0bA7ZixRT4A,6.128,4.2
+1,Top Songs - Japan,OFFICIAL HIGE DANDISM,Subtitle,77,anime,0.0313,0.649,0.683,0.0,0.381,49F3htNmwzPKFycPdOrDvf,6.039,4.2
+2,Top Songs - Japan,Vaundy,怪獣の花唄,76,j-pop,0.00361,0.425,0.939,0.0,0.638,10zz9RZt9DnqcxNWksRNrx,6.039,4.2
+3,Top Songs - Japan,Kenshi Yonezu,KICK BACK,83,anime,0.00207,0.577,0.941,3.36e-06,0.292,3khEEPRyBeOUabbmOPJzAG,6.039,4.2
+4,Top Songs - Japan,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,6.039,4.2
+5,Top Songs - Japan,Mrs. GREEN APPLE,ダンスホール,74,anime rock,0.0209,0.736,0.695,0.0,0.784,4NaaF28BeO9WzjDrSS71Nz,6.039,4.2
+6,Top Songs - Japan,NewJeans,Ditto,90,k-pop,0.027,0.814,0.641,0.0,0.183,3r8RuvgbX9s7ammBn07D3W,6.039,4.2
+7,Top Songs - Japan,Tani Yuuki,W / X / Y,71,j-pop,0.159,0.628,0.775,0.0,0.674,4IfrM44LofE9bSs6TDZS49,6.039,4.2
+8,Top Songs - Japan,10-FEET,第ゼロ感,69,j-pop,2.77e-05,0.445,0.94,1.34e-05,0.349,6zjk7Qbwb9DZ4ykUUoqknh,6.039,4.2
+9,Top Songs - Japan,百足,君のまま,70,j-rap,0.435,0.836,0.771,0.0,0.664,78NUnAsLzE6azxvuPDy9M7,6.039,4.2
+10,Top Songs - Japan,natori,Overdose,77,None,0.0307,0.733,0.598,1.7e-05,0.831,2Dzzhb1oV5ckgOjWZLraIB,6.039,4.2
+1,Top Songs - South Korea,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,5.935,4.1
+2,Top Songs - South Korea,NewJeans,Ditto,90,k-pop,0.027,0.814,0.641,0.0,0.183,3r8RuvgbX9s7ammBn07D3W,5.935,4.1
+3,Top Songs - South Korea,NewJeans,Hype Boy,86,k-pop,0.268,0.593,0.935,0.0,0.783,0a4MMyCrzT0En247IhqZbD,5.935,4.1
+4,Top Songs - South Korea,Charlie Puth,Left and Right (Feat. Jung Kook of BTS),80,dance pop,0.619,0.881,0.592,1.32e-05,0.719,5Odq8ohlgIbQKMZivbWkEo,5.935,4.1
+5,Top Songs - South Korea,TAEYANG,VIBE (feat. Jimin of BTS),83,korean r&b,0.0801,0.78,0.683,0.0,0.608,61AZsmFB3VoJdmraMk5ZSn,5.935,4.1
+6,Top Songs - South Korea,imase,NIGHT DANCER,68,japanese teen pop,0.0879,0.924,0.563,0.0,0.872,3gmn76fCtpDazGMnN0QMHX,5.935,4.1
+7,Top Songs - South Korea,NewJeans,Attention,83,k-pop,0.236,0.811,0.648,0.0,0.695,2pIUpMhHL6L9Z5lnKxJJr9,5.935,4.1
+8,Top Songs - South Korea,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,5.935,4.1
+9,Top Songs - South Korea,j-hope,on the street (with J. Cole),87,k-pop,0.532,0.681,0.821,0.00111,0.813,5wxYxygyHpbgv0EXZuqb9V,5.935,4.1
+10,Top Songs - South Korea,LE SSERAFIM,ANTIFRAGILE,85,None,0.0821,0.882,0.797,0.0,0.824,4fsQ0K37TOXa3hEQfjEic1,5.935,4.1
+1,Top Songs - India,Kaifi Khalil,Kahani Suno 2.0,83,balochi pop,0.909,0.577,0.379,0.000586,0.26,4VsP4Dm8gsibRxB5I2hEkw,3.777,4.5
+2,Top Songs - India,King,Maan Meri Jaan,85,hindi hip hop,0.354,0.698,0.505,0.0,0.396,1418IuVKQPTYqt7QNJ9RXN,3.777,4.5
+3,Top Songs - India,Pritam,Kesariya,75,filmi,0.572,0.577,0.574,0.0,0.436,4UMIv5jd9gK98a39BQRD9X,3.777,4.5
+4,Top Songs - India,Vishal-Shekhar,Jhoome Jo Pathaan,82,desi pop,0.0964,0.817,0.738,0.0,0.616,6FAYpZ4jve8vpvTwUvjK6H,3.777,4.5
+5,Top Songs - India,Pritam,Tere Pyaar Mein,80,filmi,0.111,0.679,0.748,0.0,0.406,2ZD4aIEepqZsdxPxLSuUhm,3.777,4.5
+6,Top Songs - India,Chani Nattan,Daku,80,desi hip hop,0.325,0.847,0.558,0.0,0.495,3wz2vWhYnnBoFmgMkqtzLy,3.777,4.5
+7,Top Songs - India,King,Tu Aake Dekhle,80,hindi hip hop,0.515,0.77,0.84,0.00452,0.192,0yCWDaAgOtg6TKlNCg9rwA,3.777,4.5
+8,Top Songs - India,Vishal-Shekhar,"Besharam Rang (From ""Pathaan"")",82,desi pop,0.0587,0.773,0.795,0.00237,0.649,0CtZpaOhtzvLV3FfcsVpQo,3.777,4.5
+9,Top Songs - India,Madhur Sharma,Kali Kali Zulfon Ke (Lo-Fi),77,desi pop,0.837,0.464,0.491,1.39e-06,0.106,7oN0Wo7sCVvXPdpxoio3JM,3.777,4.5
+10,Top Songs - India,Pritam,"Pyaar Hota Kayi Baar Hai (From ""Tu Jhoothi Main Makkaar"")",77,filmi,0.138,0.772,0.767,0.0,0.866,2vPrBucKCfKmafHhSfJ2pt,3.777,4.5
+1,Top Songs - Brazil,AgroPlay,Nosso Quadro,77,sertanejo pop,0.338,0.691,0.708,0.0,0.602,4uqJelb9THHmJ3OCohg4ZJ,6.293,5.8
+2,Top Songs - Brazil,Marília Mendonça,Leão,88,arrocha,0.449,0.743,0.865,3.05e-06,0.794,2K9kZpwD2CzTa6iiSYYOoO,6.293,5.8
+3,Top Songs - Brazil,MC Xenon,Sem Aliança no Dedo,83,deboxe,0.732,0.532,0.355,0.0,0.399,22sAwsBH0NoNJXnrBenQuO,6.293,5.8
+4,Top Songs - Brazil,Israel & Rodolffo,Bombonzinho - Ao Vivo,71,arrocha,0.3,0.654,0.948,0.0,0.706,0SCMVUZ21uYYB8cc0ScfbV,6.293,5.8
+5,Top Songs - Brazil,Treyce,Lovezinho,83,None,0.295,0.824,0.587,3.19e-06,0.605,5smr3wYPodiv8ogWy0DE6J,6.293,5.8
+6,Top Songs - Brazil,Henrique & Juliano,Traumatizei - Ao Vivo Em Brasília,83,arrocha,0.13,0.483,0.91,0.0,0.576,0JIYoXtJfORxI6gRpHv6ZW,6.293,5.8
+7,Top Songs - Brazil,Zé Neto & Cristiano,Oi Balde - Ao Vivo,81,arrocha,0.601,0.67,0.668,0.0,0.552,3mzbab4H0iZYkHggSEj0UX,6.293,5.8
+8,Top Songs - Brazil,Leo Santana,Zona De Perigo,86,arrocha,0.748,0.805,0.767,1.66e-05,0.97,1jHgfC8T5KxUyC5Ldw6lk9,6.293,5.8
+9,Top Songs - Brazil,WIU,Coração de Gelo,84,trap brasileiro,0.124,0.732,0.671,0.0,0.836,7nFvKgVumc9FcU97zGjjei,6.293,5.8
+10,Top Songs - Brazil,Gustavo Mioto,Eu Gosto Assim - Ao Vivo,84,arrocha,0.149,0.636,0.909,0.0,0.61,4ASA1PZyWGbuc4d9N8OAcF,6.293,5.8
+1,Top Songs - Vietnam,tlinh,nếu lúc đó,69,indie viet,0.332,0.632,0.615,0.000186,0.348,7wj9sGlHGTMQ28liyi48hz,5.485,4.0
+2,Top Songs - Vietnam,AMEE,ưng quá chừng,60,v-pop,0.629,0.907,0.609,0.0574,0.756,2ZJTmYNOA8k21yUtLXJG57,5.485,4.0
+3,Top Songs - Vietnam,GREY D,vaicaunoicokhiennguoithaydoi,65,v-pop,0.882,0.56,0.42,0.000605,0.585,25h0TqC9H3BcMA7KjK5nHK,5.485,4.0
+4,Top Songs - Vietnam,RPT MCK,Anh Đã Ổn Hơn,62,vietnamese hip hop,0.726,0.703,0.28,0.000282,0.338,3YctJXK6kznnWl68TnYobN,5.485,4.0
+5,Top Songs - Vietnam,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,5.485,4.0
+6,Top Songs - Vietnam,Emcee L (Da LAB),Chuyện Đôi Ta (feat. Muộii),65,v-pop,0.724,0.517,0.467,0.0,0.453,4CUvVaAYuXtvYURLFz7EIL,5.485,4.0
+7,Top Songs - Vietnam,RPT Orijinn,Don't Côi,60,vietnamese hip hop,0.816,0.808,0.41,0.0,0.361,3ukrFH17Zl6iEZ2QJ1Zwiy,5.485,4.0
+8,Top Songs - Vietnam,Jung Kook,Dreamers [Music from the FIFA World Cup Qatar 2022 Official Soundtrack],85,k-pop,0.158,0.71,0.879,0.00142,0.341,1RDvyOk4WtPCtoqciJwVn8,5.485,4.0
+9,Top Songs - Vietnam,Tăng Duy Tân,Bật Tình Yêu Lên,61,v-pop,0.503,0.778,0.649,0.00801,0.619,62SFLTN7txImu8pQwBMP6A,5.485,4.0
+10,Top Songs - Vietnam,Madihu,Vì Anh Đâu Có Biết,64,indie viet,0.861,0.775,0.358,0.0,0.524,6VXVYATpQXEIoZ97NnWCmn,5.485,4.0
+1,Top Songs - Philippines,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,5.904,3.3
+2,Top Songs - Philippines,SunKissed Lola,Pasilyo,80,pinoy indie rock,0.415,0.71,0.61,2.67e-05,0.404,0uZFcsx96wzbixsULmrg8o,5.904,3.3
+3,Top Songs - Philippines,Jeff Grecia,Elevate,71,tagalog rap,0.535,0.894,0.63,0.0,0.6,7g0PwcVq4qNuum1ex9OO0N,5.904,3.3
+4,Top Songs - Philippines,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,5.904,3.3
+5,Top Songs - Philippines,SZA,Snooze,90,pop,0.141,0.559,0.551,0.0,0.392,4iZ4pt7kvcaH6Yo8UoZ4s2,5.904,3.3
+6,Top Songs - Philippines,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,5.904,3.3
+7,Top Songs - Philippines,Adie,Mahika,77,None,0.742,0.635,0.451,0.0,0.601,47sq83n5WN22ZzYnGn8aTy,5.904,3.3
+8,Top Songs - Philippines,d4vd,Here With Me,92,bedroom pop,0.534,0.574,0.469,9.21e-05,0.288,78Sw5GDo6AlGwTwanjXbGh,5.904,3.3
+9,Top Songs - Philippines,Calein,Umaasa,75,pinoy city pop,0.295,0.627,0.433,0.393,0.353,4AULw1VRyJP17zMvwgTIUs,5.904,3.3
+10,Top Songs - Philippines,The Weeknd,Reminder,86,canadian contemporary r&b,0.142,0.706,0.505,0.0,0.388,37F0uwRSrdzkBiuj0D5UHI,5.904,3.3
+1,Top Songs - Germany,Udo Lindenberg,Komet,82,german pop,0.285,0.55,0.5,0.0,0.351,7oQepKHmXDaPC3rgeLRvQu,7.034,5.2
+2,Top Songs - Germany,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.034,5.2
+3,Top Songs - Germany,AYLIVA,Sie weiß (feat. Mero),80,None,0.517,0.792,0.679,1.49e-05,0.204,7DyDjhZMEIK5Ied4juTCyc,7.034,5.2
+4,Top Songs - Germany,badmómzjay,Auf die Party,71,frauenrap,0.119,0.83,0.615,5.7e-05,0.7,5qDzKUTHCUiKhewBa9STsE,7.034,5.2
+5,Top Songs - Germany,RIN,AMG,70,german cloud rap,0.0873,0.538,0.738,0.0,0.595,1cfRQnbM4Cf0xEt3mx2cQ6,7.034,5.2
+6,Top Songs - Germany,Nina Chuba,Mangos mit Chili,68,hamburg hip hop,0.147,0.888,0.607,0.0,0.728,7AyE8MRf4dIK75mqqpks9S,7.034,5.2
+7,Top Songs - Germany,Kwam.E,Hallow Kitty,72,german alternative rap,0.0243,0.933,0.522,0.0,0.624,3YONiGJ9VB9KvpXEHgLMjF,7.034,5.2
+8,Top Songs - Germany,Luciano,Bamba (feat. Aitch & BIA),72,german drill,0.119,0.797,0.791,0.0,0.828,7sJNeWTXkZCEC7OnFMpGWL,7.034,5.2
+9,Top Songs - Germany,David Guetta,I'm Good (Blue),93,big room,0.00383,0.561,0.965,7.07e-06,0.304,4uUG5RXrOk84mYEfFvj3cK,7.034,5.2
+10,Top Songs - Germany,Peter Fox,Zukunft Pink (feat. Inéz),76,german pop,0.514,0.903,0.719,7.67e-05,0.639,4YxZQd3I4rj1nqkXgvpCk4,7.034,5.2
+1,Top Songs - Colombia,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,5.781,4.7
+2,Top Songs - Colombia,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,5.781,4.7
+3,Top Songs - Colombia,Feid,CHORRITO PA LAS ANIMAS,89,colombian pop,0.114,0.743,0.831,6.43e-05,0.609,0CYTGMBYkwUxrj1MWDLrC5,5.781,4.7
+4,Top Songs - Colombia,KAROL G,MIENTRAS ME CURO DEL CORA,86,reggaeton,0.855,0.523,0.477,0.0,0.57,6otePxalBK8AVa20xhZYVQ,5.781,4.7
+5,Top Songs - Colombia,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,5.781,4.7
+6,Top Songs - Colombia,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,5.781,4.7
+7,Top Songs - Colombia,KAROL G,X SI VOLVEMOS,84,reggaeton,0.334,0.794,0.807,0.0,0.575,4NoOME4Dhf4xgxbHDT7VGe,5.781,4.7
+8,Top Songs - Colombia,Arcángel,La Jumpa,86,latin hip hop,0.111,0.887,0.234,0.67,0.197,2mnXxnrX5vCGolNkaFvVeM,5.781,4.7
+9,Top Songs - Colombia,Feid,Normal,83,colombian pop,0.034,0.709,0.56,0.0,0.541,0T2pB7P1VdXPhLdQZ488uH,5.781,4.7
+10,Top Songs - Colombia,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,5.781,4.7
+1,Top Songs - Argentina,Big One,En La Intimidad | CROSSOVER #1,83,None,0.0924,0.804,0.555,0.0,0.64,7w7BrPbOjF5OxChs2dxFve,5.967,4.7
+2,Top Songs - Argentina,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,5.967,4.7
+3,Top Songs - Argentina,BM,M.A (Mejores Amigos),82,previa,0.298,0.746,0.729,0.0,0.755,1eIDsKCLwZF6CJK8pOgHX5,5.967,4.7
+4,Top Songs - Argentina,TINI,Cupido,79,latin pop,0.521,0.913,0.584,5.36e-05,0.627,04ndZkbKGthTgYSv3xS7en,5.967,4.7
+5,Top Songs - Argentina,LiL CaKe,MERCHO,88,trap argentino,0.431,0.838,0.79,3.33e-06,0.962,1DxEbt6OSbrkRthk6pjZue,5.967,4.7
+6,Top Songs - Argentina,Luck Ra,Ya No Vuelvas (Versión Cuarteto),81,trap argentino,0.224,0.736,0.9,0.0,0.562,6jRZ33ifS5VOTMwmPxhPhN,5.967,4.7
+7,Top Songs - Argentina,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,5.967,4.7
+8,Top Songs - Argentina,Taiu,Rara Vez,85,None,0.176,0.838,0.708,0.0,0.96,7MVIfkyzuUmQ716j8U7yGR,5.967,4.7
+9,Top Songs - Argentina,TINI,Muñecas,74,latin pop,0.0288,0.688,0.712,0.0,0.852,4yPmTUkWmUfLPQLCccp0DR,5.967,4.7
+10,Top Songs - Argentina,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",96,argentine hip hop,0.274,0.778,0.632,0.0,0.498,4nrPB8O7Y7wsOCJdgXkthe,5.967,4.7
+1,Top Songs - Spain,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.476,5.2
+2,Top Songs - Spain,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,6.476,5.2
+3,Top Songs - Spain,LiL CaKe,MERCHO,88,trap argentino,0.431,0.838,0.79,3.33e-06,0.962,1DxEbt6OSbrkRthk6pjZue,6.476,5.2
+4,Top Songs - Spain,Quevedo,PLAYA DEL INGLÉS,82,rap canario,0.0822,0.793,0.736,0.0,0.656,0Sfn2TYbpQtCGMBf6C0Y6T,6.476,5.2
+5,Top Songs - Spain,Marshmello,El Merengue,84,brostep,0.0313,0.775,0.677,0.00517,0.698,51FvjPEGKq2zByeeEQ43V9,6.476,5.2
+6,Top Songs - Spain,Quevedo,WANDA,85,rap canario,0.249,0.724,0.631,0.0,0.957,0Iozrbed8spxoBnmtBMshO,6.476,5.2
+7,Top Songs - Spain,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,6.476,5.2
+8,Top Songs - Spain,TINI,Cupido,79,latin pop,0.521,0.913,0.584,5.36e-05,0.627,04ndZkbKGthTgYSv3xS7en,6.476,5.2
+9,Top Songs - Spain,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",96,argentine hip hop,0.274,0.778,0.632,0.0,0.498,4nrPB8O7Y7wsOCJdgXkthe,6.476,5.2
+10,Top Songs - Spain,Quevedo,PUNTO G,84,rap canario,0.251,0.751,0.761,0.000238,0.553,4WiQA1AGWHFvaxBU6bHghs,6.476,5.2
+1,Top Songs - Dominican Republic,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,5.737,4.7
+2,Top Songs - Dominican Republic,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,5.737,4.7
+3,Top Songs - Dominican Republic,Arcángel,La Jumpa,86,latin hip hop,0.111,0.887,0.234,0.67,0.197,2mnXxnrX5vCGolNkaFvVeM,5.737,4.7
+4,Top Songs - Dominican Republic,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,5.737,4.7
+5,Top Songs - Dominican Republic,KAROL G,MIENTRAS ME CURO DEL CORA,86,reggaeton,0.855,0.523,0.477,0.0,0.57,6otePxalBK8AVa20xhZYVQ,5.737,4.7
+6,Top Songs - Dominican Republic,Bad Bunny,Me Porto Bonito,90,reggaeton,0.0901,0.911,0.712,2.68e-05,0.425,6Sq7ltF9Qa7SNFBsV5Cogx,5.737,4.7
+7,Top Songs - Dominican Republic,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",96,argentine hip hop,0.274,0.778,0.632,0.0,0.498,4nrPB8O7Y7wsOCJdgXkthe,5.737,4.7
+8,Top Songs - Dominican Republic,KAROL G,X SI VOLVEMOS,84,reggaeton,0.334,0.794,0.807,0.0,0.575,4NoOME4Dhf4xgxbHDT7VGe,5.737,4.7
+9,Top Songs - Dominican Republic,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,5.737,4.7
+10,Top Songs - Dominican Republic,Eladio Carrion,Mbappe,78,trap boricua,0.548,0.712,0.684,0.0,0.513,2lmWwBLVJ2P0HX491zkYws,5.737,4.7
+1,Top Songs - Italy,Lazza,CENERE,76,italian hip hop,0.305,0.652,0.628,0.0,0.317,0mHC3BK9vFGoEU0EcGPWRZ,6.467,5.1
+2,Top Songs - Italy,Finesse,"Gelosa (feat. Shiva, Sfera Ebbasta, Guè)",78,italian hip hop,0.0378,0.726,0.672,0.0,0.479,2hHC2jw8qiE4IAPDGjU4Fu,6.467,5.1
+3,Top Songs - Italy,Mr.Rain,SUPEREROI,77,italian pop,0.228,0.47,0.619,0.0,0.453,1nND6VDerwJxLaUwVVCp28,6.467,5.1
+4,Top Songs - Italy,Matteo Paolillo - Icaro,ORIGAMI ALL'ALBA - CLARA,76,None,0.577,0.633,0.751,0.0,0.43,3X6QTmtaKukOu5lISJYi4g,6.467,5.1
+5,Top Songs - Italy,Tananai,TANGO,71,None,0.232,0.33,0.668,0.0,0.323,74cyFjvgjyiFiQ3QxszFWq,6.467,5.1
+6,Top Songs - Italy,Marco Mengoni,Due Vite,61,italian adult pop,0.4,0.635,0.541,0.0,0.133,4eI0ncpnZuv4A3ssTJRSDY,6.467,5.1
+7,Top Songs - Italy,Madame,IL BENE NEL MALE,79,italian hip hop,0.226,0.829,0.703,0.0336,0.615,2j8E9m3kDHfxFnGhN4fXaC,6.467,5.1
+8,Top Songs - Italy,Stefano Lentini,‘O Mar For,75,italian soundtrack,0.0384,0.316,0.524,0.000116,0.488,1DQXiBc8DqPfcdLVZkouhI,6.467,5.1
+9,Top Songs - Italy,Guè,Cookies N' Cream (feat. ANNA & Sfera Ebbasta),77,italian hip hop,0.37,0.572,0.66,0.0,0.581,1xUnvxp9DFrpwXnO0RHKUp,6.467,5.1
+10,Top Songs - Italy,Bizarrap,"Quevedo: Bzrp Music Sessions, Vol. 52",91,argentine hip hop,0.0125,0.621,0.782,0.033,0.55,2tTmW7RDtMQtBk7m2rYeSw,6.467,5.1
+1,Top Songs - Israel,Noa Kirel,Unicorn,64,israeli pop,0.0216,0.681,0.868,0.00023,0.282,6dUregFbvUNqHP5nphqesK,7.364,4.6
+2,Top Songs - Israel,Peer Tasi,אהבה חולה,61,israeli mediterranean,0.193,0.616,0.4,0.000915,0.335,4RyMByXc5HfKc3b8wqwOso,7.364,4.6
+3,Top Songs - Israel,Avi Aburomi,אין אותנו יותר (By Tamar Yahalomy & Yonatan Kalimi),58,israeli pop,0.797,0.522,0.428,0.0,0.368,1zZ9bah4HU0TtICQzCFXp3,7.364,4.6
+4,Top Songs - Israel,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.364,4.6
+5,Top Songs - Israel,Eden Hason,עד שתבואי עד אליי,58,israeli mediterranean,0.137,0.703,0.613,8.28e-05,0.518,1Rh5r9vUOumJ1sbPuv3dkO,7.364,4.6
+6,Top Songs - Israel,Osher Cohen,אני פה,57,israeli mediterranean,0.511,0.732,0.54,8.49e-06,0.349,60BOR51eeN8A3wYIrElggH,7.364,4.6
+7,Top Songs - Israel,Static,לירז,56,None,0.0304,0.682,0.764,0.0,0.729,50uspwzqbMxkpyHzMLwUVy,7.364,4.6
+8,Top Songs - Israel,Benaia Barabi,קרן שמש,55,israeli mediterranean,0.562,0.714,0.487,0.0,0.528,3zhFqDzJZfnc8L5QkGWWG6,7.364,4.6
+9,Top Songs - Israel,Tuna,סהרה - Live,58,israeli hip hop,0.75,0.33,0.768,0.0,0.361,7BcRDWY4VTCvRRHoobFWWo,7.364,4.6
+10,Top Songs - Israel,Gal Adam,משוגעת (Prod. by Triangle),57,israeli mediterranean,0.134,0.761,0.787,0.00145,0.542,3idINUuyRidKbQiMFt6EkU,7.364,4.6
+1,Top Songs - United Kingdom,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,6.943,4.5
+2,Top Songs - United Kingdom,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.943,4.5
+3,Top Songs - United Kingdom,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,6.943,4.5
+4,Top Songs - United Kingdom,Calvin Harris,Miracle (with Ellie Goulding),81,dance pop,0.0378,0.636,0.869,0.0446,0.306,5eTaQYBE1yrActixMAeLcZ,6.943,4.5
+5,Top Songs - United Kingdom,RAYE,Escapism.,79,dance pop,0.138,0.538,0.742,4.67e-05,0.25,5mHdCZtVyb4DcJw8799hZp,6.943,4.5
+6,Top Songs - United Kingdom,Lizzy McAlpine,ceilings,88,boston folk,0.473,0.516,0.322,0.00194,0.261,2L9N0zZnd37dwF0clgxMGI,6.943,4.5
+7,Top Songs - United Kingdom,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,6.943,4.5
+8,Top Songs - United Kingdom,Coi Leray,Players,90,new jersey underground rap,0.03,0.954,0.516,7.54e-06,0.624,6UN73IYd0hZxLi8wFPMQij,6.943,4.5
+9,Top Songs - United Kingdom,Miguel,Sure Thing,91,dance pop,0.0267,0.684,0.607,0.000307,0.498,0JXXNGljqupsJaZsgSbMZV,6.943,4.5
+10,Top Songs - United Kingdom,Taylor Swift,Anti-Hero,92,pop,0.13,0.637,0.643,1.8e-06,0.533,0V3wPSX9ygBnCm8psDIegu,6.943,4.5
+1,Top Songs - Ukraine,SadSvit,Силуети,63,ukrainian post-punk,0.0155,0.527,0.861,0.0311,0.387,61BaxM1NIcadLu3gtWm2uT,5.084,6.3
+2,Top Songs - Ukraine,ThxSoMch,SPIT IN MY FACE!,87,None,0.0464,0.73,0.785,0.0216,0.649,1N8TTK1Uoy7UvQNUazfUt5,5.084,6.3
+3,Top Songs - Ukraine,INTERWORLD,METAMORPHOSIS,87,None,0.426,0.593,0.641,0.901,0.147,2ksyzVfU0WJoBpu8otr4pz,5.084,6.3
+4,Top Songs - Ukraine,Skofka,Чути гімн,58,ukrainian pop,0.439,0.826,0.4,0.0,0.422,4Yzlz45QgjUKZmN2KrK4AP,5.084,6.3
+5,Top Songs - Ukraine,Kordhell,Murder In My Mind,86,drift phonk,0.00547,0.712,0.972,7.06e-05,0.568,6qyS9qBy0mEk3qYaH8mPss,5.084,6.3
+6,Top Songs - Ukraine,YAKTAK,Погляд,53,ukrainian pop,0.0908,0.761,0.793,6.68e-06,0.548,66Xj2OpnDALdW0G509b9yY,5.084,6.3
+7,Top Songs - Ukraine,zxcursed,new era,61,russian hip hop,0.000121,0.597,0.873,3.65e-05,0.14,60pX9FvHlTE9PXRHLpmAYc,5.084,6.3
+8,Top Songs - Ukraine,DVRST,Komarovo (DVRST Phonk Remix),64,drift phonk,0.0751,0.676,0.724,0.000194,0.253,1yqaea9PLO8rttUlcNTlcB,5.084,6.3
+9,Top Songs - Ukraine,SadSvit,Касета,58,ukrainian post-punk,0.294,0.654,0.743,0.0495,0.632,4MQmxIxM5CXKjdq4IrCWhd,5.084,6.3
+10,Top Songs - Ukraine,Parfeniuk,Провела екскурсію,58,ukrainian pop,0.0513,0.638,0.693,0.0,0.357,3h9XZd7ZON6LubTC3AqwzT,5.084,6.3
+1,Top Songs - Egypt,Abo El Anwar,Blanco,59,egyptian hip hop,0.342,0.733,0.721,0.0,0.481,6Uig1yLkQkBZoHGDyZrTzm,4.288,3.5
+2,Top Songs - Egypt,Essam Sasa,مسا مني ليكوا,61,egyptian pop,0.558,0.733,0.695,0.0,0.834,7qnR06N2Ekj9iBOQHiFqdq,4.288,3.5
+3,Top Songs - Egypt,Mohammed Saeed,Alo Aleky,68,egyptian alternative,0.921,0.671,0.41,0.00181,0.51,0zzrAsIPYKENTWOwZqYjYp,4.288,3.5
+4,Top Songs - Egypt,Wingii,Freedom Music: Scene Cypher 3,61,egyptian trap,0.34,0.685,0.448,0.0,0.378,6J2LvJwmgpauEsaY6h06fW,4.288,3.5
+5,Top Songs - Egypt,Bahaa Sultan,Beraha Ya Sheekha,61,arab pop,0.226,0.794,0.748,8.57e-06,0.888,1VfR7wqvEB9vQZrpizMRmf,4.288,3.5
+6,Top Songs - Egypt,Wegz,البخت,63,egyptian hip hop,0.487,0.78,0.59,1.07e-05,0.66,5kdlxZ5skOYY3VK8RlfEIZ,4.288,3.5
+7,Top Songs - Egypt,Muslim - مُسلِم,Aleb Fel Dafater,61,egyptian alternative,0.53,0.393,0.5,0.00217,0.367,68WRDAU8QecpIyasp2BEby,4.288,3.5
+8,Top Songs - Egypt,FL EX,MESAMA3EEN,59,egyptian trap,0.481,0.738,0.705,0.0,0.668,6gg53gW5wlz0jSQmOcqIfY,4.288,3.5
+9,Top Songs - Egypt,Ahmed Mekky,ولعانه,54,arabic hip hop,0.319,0.605,0.889,0.0,0.573,2LXdEuFjon9uNIXbtoic6y,4.288,3.5
+10,Top Songs - Egypt,Marwan Pablo,LELLY YAH,55,egyptian hip hop,0.163,0.792,0.661,0.0,0.441,1SSymcmcSI1oYQtwOA8mOJ,4.288,3.5
+1,Top Songs - Australia,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,7.162,5.9
+2,Top Songs - Australia,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.162,5.9
+3,Top Songs - Australia,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,7.162,5.9
+4,Top Songs - Australia,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.162,5.9
+5,Top Songs - Australia,Morgan Wallen,Last Night,83,contemporary country,0.467,0.492,0.675,0.0,0.478,7K3BhSpAxZBznislvUMVtn,7.162,5.9
+6,Top Songs - Australia,Harry Styles,As It Was,90,pop,0.342,0.52,0.731,0.00101,0.662,4Dvkj6JhhA12EX05fT7y2e,7.162,5.9
+7,Top Songs - Australia,Coi Leray,Players,90,new jersey underground rap,0.03,0.954,0.516,7.54e-06,0.624,6UN73IYd0hZxLi8wFPMQij,7.162,5.9
+8,Top Songs - Australia,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),95,rap,0.417,0.715,0.62,0.0,0.172,2dHHgzDwk4BJdRwy9uXhTO,7.162,5.9
+9,Top Songs - Australia,RAYE,Escapism.,79,dance pop,0.138,0.538,0.742,4.67e-05,0.25,5mHdCZtVyb4DcJw8799hZp,7.162,5.9
+10,Top Songs - Australia,OneRepublic,I Ain't Worried,48,piano rock,0.0988,0.697,0.802,3.55e-05,0.822,4fYte8ZvTK14NEhAOZocBi,7.162,5.9
+1,Top Songs - Indonesia,Raim Laode,Komang,84,None,0.415,0.696,0.412,6.16e-05,0.349,2AaaE0qvFWtyT8srKNfRhH,5.24,3.7
+2,Top Songs - Indonesia,Mahalini,Sial,85,indonesian pop,0.89,0.563,0.431,2.9e-06,0.196,6dXiWwFrcGieqnoLYzPNp5,5.24,3.7
+3,Top Songs - Indonesia,Jogja Hip Hop Foundation,Cintamu Sepahit Topi Miring,79,indonesian hip hop,0.147,0.741,0.801,2.73e-05,0.561,1ixNEKbIZTTZ5LIz3rr9jD,5.24,3.7
+4,Top Songs - Indonesia,Aruma,Muak,80,None,0.774,0.265,0.32,0.000146,0.185,3N2WeXxSjngB1DSi8vrI8C,5.24,3.7
+5,Top Songs - Indonesia,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,5.24,3.7
+6,Top Songs - Indonesia,Awdella,Tertawan Hati,81,indonesian pop,0.661,0.319,0.432,0.0,0.244,3i0h88q1HBtbdIg2bPxs54,5.24,3.7
+7,Top Songs - Indonesia,d4vd,Here With Me,92,bedroom pop,0.534,0.574,0.469,9.21e-05,0.288,78Sw5GDo6AlGwTwanjXbGh,5.24,3.7
+8,Top Songs - Indonesia,raissa anggiani,Kau Rumahku,80,indonesian lo-fi pop,0.873,0.35,0.323,1.48e-06,0.278,7nQoDLkzCcoIpKPQt3eCdN,5.24,3.7
+9,Top Songs - Indonesia,Feby Putri,Runtuh,79,indonesian pop,0.876,0.593,0.287,0.000136,0.191,6Hii26x3qDErVitnGW8QtO,5.24,3.7
+10,Top Songs - Indonesia,New West,Those Eyes,86,pop,0.695,0.593,0.352,2.22e-05,0.226,50x1Ic8CaXkYNvjmxe3WXy,5.24,3.7
+1,Top Songs - Thailand,เรนิษรา,ผู้ถูกเลือกให้ผิดหวัง (ดอกไม้ฤดูหนาว) - Sad flower,71,None,0.521,0.579,0.341,0.103,0.375,7BUHKcrvmr9WIAgEBkwukl,5.891,4.4
+2,Top Songs - Thailand,Newery,กลิ่นดอกไม้,65,None,0.0997,0.495,0.702,9.69e-06,0.461,5OaXaynJZgklXEwzhouey5,5.891,4.4
+3,Top Songs - Thailand,j-hope,on the street (with J. Cole),87,k-pop,0.532,0.681,0.821,0.00111,0.813,5wxYxygyHpbgv0EXZuqb9V,5.891,4.4
+4,Top Songs - Thailand,BLACKPINK,Shut Down,75,k-pop,0.00327,0.818,0.69,0.0,0.688,7gRFDGEzF9UkBV233yv2dc,5.891,4.4
+5,Top Songs - Thailand,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,5.891,4.4
+6,Top Songs - Thailand,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,5.891,4.4
+7,Top Songs - Thailand,Musketeers,พิจารณา (Consider),68,deep german indie,0.526,0.77,0.677,0.000483,0.942,3XCoEJvCYqTbM8bhples8N,5.891,4.4
+8,Top Songs - Thailand,YOUNGOHM,ธาตุทองซาวด์,66,thai hip hop,0.0473,0.828,0.921,0.0,0.74,00Tm1bspfNQJnaWAoQK2eC,5.891,4.4
+9,Top Songs - Thailand,Pop Pongkool,สลักจิต,67,thai pop,0.409,0.544,0.582,4.47e-06,0.359,03Yp2uEOtPGHQ6E9XSjmyv,5.891,4.4
+10,Top Songs - Thailand,NewJeans,Ditto,90,k-pop,0.027,0.814,0.641,0.0,0.183,3r8RuvgbX9s7ammBn07D3W,5.891,4.4
+1,Top Songs - Poland,club2020,Malibu Barbie,58,polish hip hop,0.185,0.636,0.688,0.0,0.743,09bXpqLbPGZum6I4lDcnMX,6.123,5.1
+2,Top Songs - Poland,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.123,5.1
+3,Top Songs - Poland,club2020,Landlord,63,polish hip hop,0.0807,0.544,0.643,0.0,0.565,6Zqigzh6qzzkJyEuYAR0oh,6.123,5.1
+4,Top Songs - Poland,Jann,Gladiator,70,None,0.173,0.648,0.785,0.00383,0.239,0vbp3qthXlRVsLXTbPrkX1,6.123,5.1
+5,Top Songs - Poland,Dawid Podsiadło,mori,69,polish pop,0.634,0.37,0.497,0.0,0.101,2yxPqxHbj1L7vrCpHLtAcG,6.123,5.1
+6,Top Songs - Poland,club2020,No weź,56,polish hip hop,0.116,0.8,0.589,0.0,0.272,6nKqdZTgE8RyTqwGx6Ow6f,6.123,5.1
+7,Top Songs - Poland,2115,DRESSCODE,70,None,0.161,0.787,0.564,1.86e-06,0.718,3Nqxx5fdl3FQlrk3zarRmA,6.123,5.1
+8,Top Songs - Poland,Kuban,na okrągło,70,polish alternative rap,0.334,0.724,0.525,4.51e-06,0.427,4JmaOG7bfj1uNv8jEUg0Ce,6.123,5.1
+9,Top Songs - Poland,club2020,"Ej, mała!",61,polish hip hop,0.297,0.898,0.694,0.0,0.895,1665EkzeTTVQPc54hX6TJ2,6.123,5.1
+10,Top Songs - Poland,Bambi,IRL,70,None,0.173,0.666,0.668,2.96e-06,0.454,0Mh7nzWn5BHJSenmaUSEt6,6.123,5.1
+1,Top Songs - Ireland,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.041,4.8
+2,Top Songs - Ireland,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,7.041,4.8
+3,Top Songs - Ireland,Calvin Harris,Miracle (with Ellie Goulding),81,dance pop,0.0378,0.636,0.869,0.0446,0.306,5eTaQYBE1yrActixMAeLcZ,7.041,4.8
+4,Top Songs - Ireland,Lizzy McAlpine,ceilings,88,boston folk,0.473,0.516,0.322,0.00194,0.261,2L9N0zZnd37dwF0clgxMGI,7.041,4.8
+5,Top Songs - Ireland,RAYE,Escapism.,79,dance pop,0.138,0.538,0.742,4.67e-05,0.25,5mHdCZtVyb4DcJw8799hZp,7.041,4.8
+6,Top Songs - Ireland,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,7.041,4.8
+7,Top Songs - Ireland,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.041,4.8
+8,Top Songs - Ireland,Coi Leray,Players,90,new jersey underground rap,0.03,0.954,0.516,7.54e-06,0.624,6UN73IYd0hZxLi8wFPMQij,7.041,4.8
+9,Top Songs - Ireland,Taylor Swift,Anti-Hero,92,pop,0.13,0.637,0.643,1.8e-06,0.533,0V3wPSX9ygBnCm8psDIegu,7.041,4.8
+10,Top Songs - Ireland,Niall Horan,Heaven,86,dance pop,0.0708,0.571,0.761,0.0,0.681,1yHVHoz6Ny29gbbWJYVnFt,7.041,4.8
+1,Top Songs - Peru,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,5.559,4.8
+2,Top Songs - Peru,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,5.559,4.8
+3,Top Songs - Peru,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,5.559,4.8
+4,Top Songs - Peru,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,5.559,4.8
+5,Top Songs - Peru,Feid,CHORRITO PA LAS ANIMAS,89,colombian pop,0.114,0.743,0.831,6.43e-05,0.609,0CYTGMBYkwUxrj1MWDLrC5,5.559,4.8
+6,Top Songs - Peru,Bizarrap,"Shakira: Bzrp Music Sessions, Vol. 53",96,argentine hip hop,0.274,0.778,0.632,0.0,0.498,4nrPB8O7Y7wsOCJdgXkthe,5.559,4.8
+7,Top Songs - Peru,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,5.559,4.8
+8,Top Songs - Peru,Taiu,Rara Vez,85,None,0.176,0.838,0.708,0.0,0.96,7MVIfkyzuUmQ716j8U7yGR,5.559,4.8
+9,Top Songs - Peru,Cris Mj,Marisola - Remix,87,mambo chileno,0.173,0.765,0.872,5.65e-06,0.722,0NO2zL0kw8sGGnaMvHKAZF,5.559,4.8
+10,Top Songs - Peru,Gorillaz,Tormenta (feat. Bad Bunny),88,alternative hip hop,0.458,0.637,0.768,0.00192,0.297,38UYeBLfvpnDSG9GznZdnL,5.559,4.8
+1,Top Songs - Morocco,Dizzy DROS,M3a L3echrane,66,arabic hip hop,0.354,0.756,0.399,0.0,0.409,2L1MgWewnKsCx9MKykjZJw,5.06,4.5
+2,Top Songs - Morocco,Draganov,WILI,64,moroccan pop,0.339,0.77,0.453,0.0,0.801,7AM2uga26rlhKu1a27MyFS,5.06,4.5
+3,Top Songs - Morocco,Niro,Qui sait ? (feat. ElGrandeToto),69,francoton,0.712,0.534,0.624,0.000132,0.642,3ejjmzEsUfObGdmmQRVmM2,5.06,4.5
+4,Top Songs - Morocco,kouz1,Love,70,moroccan pop,0.528,0.709,0.689,0.0147,0.523,5zgOQGcG0oTDUQVc45q1BY,5.06,4.5
+5,Top Songs - Morocco,Mocci,Talet Lghiba,64,moroccan pop,0.592,0.694,0.569,0.0,0.374,6vEtT2Vu5MprdI69pATbLm,5.06,4.5
+6,Top Songs - Morocco,Snor,Dawk Lya,58,moroccan pop,0.443,0.609,0.399,0.0633,0.36,5OInx13SpghEifbS5bQmwq,5.06,4.5
+7,Top Songs - Morocco,DYSTINCT,Ghazali (feat. Bryan Mg),70,belgian hip hop,0.486,0.598,0.654,9.7e-06,0.536,5IJRqarA4QIc2qAw74mYo9,5.06,4.5
+8,Top Songs - Morocco,Draganov,Taline,56,moroccan pop,0.165,0.852,0.543,0.0,0.69,0tfrAZsEOELEAcjCs46TJ5,5.06,4.5
+9,Top Songs - Morocco,Mons,Lovini,57,moroccan pop,0.019,0.804,0.73,0.000177,0.442,7f783hK2ilf4bwfayaNvdB,5.06,4.5
+10,Top Songs - Morocco,kouz1,Magic,61,moroccan pop,0.688,0.744,0.636,0.131,0.67,6L1hnXrPSKAoOFmdOA8ANa,5.06,4.5
+1,Top Songs - Chile,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.172,5.0
+2,Top Songs - Chile,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,6.172,5.0
+3,Top Songs - Chile,El Jordan 23,SHERATON,73,mambo chileno,0.209,0.903,0.713,0.0,0.73,6sOSd3PYqy3UnSXF5r0MvN,6.172,5.0
+4,Top Songs - Chile,KAROL G,X SI VOLVEMOS,84,reggaeton,0.334,0.794,0.807,0.0,0.575,4NoOME4Dhf4xgxbHDT7VGe,6.172,5.0
+5,Top Songs - Chile,King Savagge,2 Hielos,56,mambo chileno,0.0727,0.834,0.628,2.96e-05,0.914,5Q9WL6KjOioqfqJdX2W72I,6.172,5.0
+6,Top Songs - Chile,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,6.172,5.0
+7,Top Songs - Chile,KAROL G,MIENTRAS ME CURO DEL CORA,86,reggaeton,0.855,0.523,0.477,0.0,0.57,6otePxalBK8AVa20xhZYVQ,6.172,5.0
+8,Top Songs - Chile,Jairo Vera,"Te Extraño a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",72,mambo chileno,0.138,0.734,0.728,0.0,0.583,6YNzvCsLwAJ4xZjdK9qk3r,6.172,5.0
+9,Top Songs - Chile,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,6.172,5.0
+10,Top Songs - Chile,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,6.172,5.0
+1,Top Songs - Canada,Morgan Wallen,Last Night,83,contemporary country,0.467,0.492,0.675,0.0,0.478,7K3BhSpAxZBznislvUMVtn,7.025,4.7
+2,Top Songs - Canada,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.025,4.7
+3,Top Songs - Canada,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,7.025,4.7
+4,Top Songs - Canada,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,7.025,4.7
+5,Top Songs - Canada,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.025,4.7
+6,Top Songs - Canada,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),95,rap,0.417,0.715,0.62,0.0,0.172,2dHHgzDwk4BJdRwy9uXhTO,7.025,4.7
+7,Top Songs - Canada,Rema,Calm Down (with Selena Gomez),93,nigerian pop,0.382,0.801,0.806,0.000669,0.802,0WtM2NBVQNNJLh6scP13H8,7.025,4.7
+8,Top Songs - Canada,David Guetta,I'm Good (Blue),93,big room,0.00383,0.561,0.965,7.07e-06,0.304,4uUG5RXrOk84mYEfFvj3cK,7.025,4.7
+9,Top Songs - Canada,Coi Leray,Players,90,new jersey underground rap,0.03,0.954,0.516,7.54e-06,0.624,6UN73IYd0hZxLi8wFPMQij,7.025,4.7
+10,Top Songs - Canada,Miley Cyrus,River,85,pop,0.000525,0.613,0.803,0.000333,0.461,04CqLjewJiSAqM210vZAmT,7.025,4.7
+1,Top Songs - Belgium,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.805,4.8
+2,Top Songs - Belgium,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),95,rap,0.417,0.715,0.62,0.0,0.172,2dHHgzDwk4BJdRwy9uXhTO,6.805,4.8
+3,Top Songs - Belgium,David Guetta,I'm Good (Blue),93,big room,0.00383,0.561,0.965,7.07e-06,0.304,4uUG5RXrOk84mYEfFvj3cK,6.805,4.8
+4,Top Songs - Belgium,Hamza,Nocif,75,belgian hip hop,0.0318,0.844,0.55,0.00117,0.788,4BZZTXcd5ROagKhynqj61X,6.805,4.8
+5,Top Songs - Belgium,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,6.805,4.8
+6,Top Songs - Belgium,Tom Odell,Another Love,61,chill pop,0.717,0.442,0.538,2.95e-05,0.139,7jtQIBanIiJOMS6RyCx6jZ,6.805,4.8
+7,Top Songs - Belgium,Maan,Stiekem,69,dutch pop,0.0156,0.748,0.579,1.37e-05,0.625,4fWyBvLIPO68D2Ff87t1em,6.805,4.8
+8,Top Songs - Belgium,Harry Styles,As It Was,90,pop,0.342,0.52,0.731,0.00101,0.662,4Dvkj6JhhA12EX05fT7y2e,6.805,4.8
+9,Top Songs - Belgium,Oliver Tree,Miss You,89,alternative hip hop,0.0128,0.587,0.742,0.00107,0.199,73vIOb4Q7YN6HeJTbscRx5,6.805,4.8
+10,Top Songs - Belgium,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,6.805,4.8
+1,Top Songs - Sweden,Loreen,Tattoo,80,electropop,0.243,0.545,0.779,1.66e-06,0.303,1DmW5Ep6ywYwxc2HMT5BG6,7.384,4.9
+2,Top Songs - Sweden,Smash Into Pieces,Six Feet Under,71,None,0.000556,0.448,0.917,0.0,0.381,5DYCuzBPf13q0QZwQvjYzi,7.384,4.9
+3,Top Songs - Sweden,Yasin,Har Dig,69,swedish gangsta rap,0.524,0.562,0.43,0.676,0.265,4FGvRqZ1pPaflN2jjLBMB9,7.384,4.9
+4,Top Songs - Sweden,Marcus & Martinus,Air,70,mgpjr,0.0495,0.572,0.734,0.0,0.0867,7DBQIEXuFIXMWNAWyGsTTm,7.384,4.9
+5,Top Songs - Sweden,Theoz,Mer av dig,63,swedish idol pop,0.185,0.649,0.81,0.0,0.764,7xzgJNufqvox5oQQa1dP1O,7.384,4.9
+6,Top Songs - Sweden,Arc North,Where You Are (Sávežan),68,covertronica,0.029,0.585,0.781,0.0,0.288,4zPqv04ddAFwk2Pgz3jC9U,7.384,4.9
+7,Top Songs - Sweden,C.Gambino,G63,65,swedish gangsta rap,0.284,0.818,0.506,0.145,0.636,3pBTElvw1OK7pDDI3MR4qC,7.384,4.9
+8,Top Songs - Sweden,Nordman,Släpp alla sorger,67,classic swedish pop,0.0837,0.481,0.827,0.0,0.397,4lGrF9Fk8wJ6nLgcuRdFre,7.384,4.9
+9,Top Songs - Sweden,Dizzy,KURIRER,66,swedish drill,0.16,0.597,0.562,0.000528,0.169,7dLIb2FTMx0EKSAipHov7P,7.384,4.9
+10,Top Songs - Sweden,Panetoz,On My Way,66,swedish pop,0.25,0.823,0.891,0.0,0.868,710xi8haZ3Os0wip67GcmY,7.384,4.9
+1,Top Songs - Austria,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.163,5.1
+2,Top Songs - Austria,Udo Lindenberg,Komet,82,german pop,0.285,0.55,0.5,0.0,0.351,7oQepKHmXDaPC3rgeLRvQu,7.163,5.1
+3,Top Songs - Austria,AYLIVA,Sie weiß (feat. Mero),80,None,0.517,0.792,0.679,1.49e-05,0.204,7DyDjhZMEIK5Ied4juTCyc,7.163,5.1
+4,Top Songs - Austria,David Guetta,I'm Good (Blue),93,big room,0.00383,0.561,0.965,7.07e-06,0.304,4uUG5RXrOk84mYEfFvj3cK,7.163,5.1
+5,Top Songs - Austria,Luciano,Bamba (feat. Aitch & BIA),72,german drill,0.119,0.797,0.791,0.0,0.828,7sJNeWTXkZCEC7OnFMpGWL,7.163,5.1
+6,Top Songs - Austria,Kwam.E,Hallow Kitty,72,german alternative rap,0.0243,0.933,0.522,0.0,0.624,3YONiGJ9VB9KvpXEHgLMjF,7.163,5.1
+7,Top Songs - Austria,RIN,AMG,70,german cloud rap,0.0873,0.538,0.738,0.0,0.595,1cfRQnbM4Cf0xEt3mx2cQ6,7.163,5.1
+8,Top Songs - Austria,Tom Odell,Another Love,61,chill pop,0.717,0.442,0.538,2.95e-05,0.139,7jtQIBanIiJOMS6RyCx6jZ,7.163,5.1
+9,Top Songs - Austria,Nina Chuba,Wildberry Lillet,64,hamburg hip hop,0.0642,0.892,0.503,0.0,0.615,6LBmaJYwbLHfQwIreMCLlw,7.163,5.1
+10,Top Songs - Austria,Eminem,Mockingbird,90,detroit hip hop,0.209,0.637,0.678,0.0,0.254,561jH07mF1jHuk7KlaeF0s,7.163,5.1
+1,Top Songs - Turkey,Semicenk,Yana Yana,78,None,0.111,0.793,0.718,1.33e-06,0.557,7p0ODIG60DRkcTiVlJPgck,4.744,4.4
+2,Top Songs - Turkey,Simge,Aşkın Olayım,78,deep turkish pop,0.23,0.556,0.582,0.0,0.561,4o4kbDP7DMVFPwAf5D5bj9,4.744,4.4
+3,Top Songs - Turkey,Semicenk,Sevecek Sandım,75,None,0.36,0.839,0.633,0.0,0.592,7dWOeNUJfixlvUcpZD90YE,4.744,4.4
+4,Top Songs - Turkey,BLOK3,AFFETMEM,78,new school turkce rap,0.586,0.646,0.685,1.78e-06,0.539,3WCrBnWabeuTk2wr6UwaYV,4.744,4.4
+5,Top Songs - Turkey,Lvbel C5,NKBİ X YAPAMAM - Remix,78,turkce drill,0.0102,0.558,0.67,4.67e-06,0.277,4ist5GP5r7UDz9gdsiJmYd,4.744,4.4
+6,Top Songs - Turkey,Heijan,İMPARATOR,77,new school turkce rap,0.125,0.849,0.548,0.00116,0.392,7lOGCEsmoHqai3PHS9kbTa,4.744,4.4
+7,Top Songs - Turkey,BLOK3,VUR,76,new school turkce rap,0.355,0.613,0.566,2e-05,0.697,2Nt4eocAv9wi1vHshhSdpF,4.744,4.4
+8,Top Songs - Turkey,cakal,Diyardan Diyara,76,turkce drill,0.052,0.789,0.703,0.00377,0.191,7Ebb2WheOGGauCH2wuQB55,4.744,4.4
+9,Top Songs - Turkey,Motive,RANDEVU,69,turkish trap,0.375,0.689,0.62,0.000296,0.233,4dNXz1K0QBtcIoeoqnJw0m,4.744,4.4
+10,Top Songs - Turkey,Mert Demir,Antidepresan,78,turkish alt pop,0.0297,0.7,0.589,1.4e-05,0.915,4OH5Cd8ZOI1eSgJSC9PYmU,4.744,4.4
+1,Top Songs - Denmark,TopGunn,For Altid,66,danish pop,0.103,0.575,0.561,0.0,0.901,0twnZu2JhBywPQBOX92gSl,7.636,5.0
+2,Top Songs - Denmark,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.636,5.0
+3,Top Songs - Denmark,D1MA,MOONLIGHT,61,danish pop,0.566,0.714,0.492,0.0,0.557,6q0sZFMvdZiInjkGZglRlu,7.636,5.0
+4,Top Songs - Denmark,Lamin,RTW,61,danish pop,0.266,0.672,0.683,0.0,0.543,4kvTPJZYo4qkxtEfTURoxY,7.636,5.0
+5,Top Songs - Denmark,Blæst,All In (feat. Lamin),61,danish pop,0.239,0.67,0.727,0.0,0.695,5PIiJ3kodpPftCM6alodDE,7.636,5.0
+6,Top Songs - Denmark,Stepz,Spørgsmål (feat. Gilli & Lamin),52,danish pop,0.0951,0.639,0.64,0.0,0.835,54U7i6gFHvyk8y4j8gTTor,7.636,5.0
+7,Top Songs - Denmark,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.636,5.0
+8,Top Songs - Denmark,Gilli,Verden Vågner (feat. Saveus),62,danish hip hop,0.371,0.565,0.764,0.00192,0.734,2rfl7SRwfel3gNhXBmL60u,7.636,5.0
+9,Top Songs - Denmark,Stepz,Jet Li (feat. Benny Jamz),54,danish pop,0.0772,0.944,0.475,0.00289,0.316,4Kwem7PKNogrUOYlAHIbFY,7.636,5.0
+10,Top Songs - Denmark,Gobs,Tro På Kærlighed,61,danish pop,0.129,0.708,0.77,0.0,0.545,6UMdjOGgEJE1khAnrGJk2k,7.636,5.0
+1,Top Songs - Netherlands,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.415,4.7
+2,Top Songs - Netherlands,Maan,Stiekem,69,dutch pop,0.0156,0.748,0.579,1.37e-05,0.625,4fWyBvLIPO68D2Ff87t1em,7.415,4.7
+3,Top Songs - Netherlands,Maks,Dyscalculie,68,None,0.314,0.812,0.724,3.39e-06,0.707,0LNT7X2PU2gg8vpMZHC37n,7.415,4.7
+4,Top Songs - Netherlands,Claude,Ladada (Mon Dernier Mot),73,None,0.51,0.755,0.569,1.77e-05,0.708,0LVjBdjZvJykxed42ExTLf,7.415,4.7
+5,Top Songs - Netherlands,Zoë Tauran,Therapie,72,dutch pop,0.0498,0.636,0.603,0.0,0.404,323zcUSa2qrq0aUAwL30sT,7.415,4.7
+6,Top Songs - Netherlands,Kevin,Kipstraat,66,dutch hip hop,0.0948,0.647,0.486,0.000807,0.417,0pprNYhVAk7SFtVLtEnyfC,7.415,4.7
+7,Top Songs - Netherlands,FLEMMING,Paracetamollen,47,dutch pop,0.139,0.464,0.588,0.0,0.28,50vXZhuyOfXaEkG3jVacmd,7.415,4.7
+8,Top Songs - Netherlands,Boef,Herinnering,65,dutch hip hop,0.348,0.72,0.554,0.0,0.27,2c04RWBdaPi7OTakLMwy20,7.415,4.7
+9,Top Songs - Netherlands,Metro Boomin,Creepin' (with The Weeknd & 21 Savage),95,rap,0.417,0.715,0.62,0.0,0.172,2dHHgzDwk4BJdRwy9uXhTO,7.415,4.7
+10,Top Songs - Netherlands,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.415,4.7
+1,Top Songs - South Africa,2Point1,Stimela,61,None,0.00617,0.799,0.622,0.000139,0.785,0AY3sNqV7qAdAZ8j6TRVBd,5.194,4.6
+2,Top Songs - South Africa,Tyler ICU,"NGIMOJA (feat. Khanyisa, Tumelo_za & Tyrondee)",60,amapiano,0.00643,0.879,0.315,0.249,0.371,51fIDcNGiIp7pxHCCN5QaL,5.194,4.6
+3,Top Songs - South Africa,Pcee,"Kilimanjaro (feat. Justin99, Mema_Percent & Mr JazziQ)",59,None,0.00585,0.807,0.474,0.00161,0.664,4aAxUQUNTtBhDgDcyCfXUu,5.194,4.6
+4,Top Songs - South Africa,Soa mattrix,Mina Nawe,62,afro soul,0.0202,0.875,0.871,0.236,0.779,1y5eHXBYiLgNv00KoHXm4o,5.194,4.6
+5,Top Songs - South Africa,Aymos,Fatela,61,afro soul,0.0139,0.875,0.36,0.000377,0.407,58u8z6ia8GTm9yZlkmtCtV,5.194,4.6
+6,Top Songs - South Africa,AKA,Company,56,afro soul,0.0522,0.925,0.551,0.00319,0.614,1nYOtsnFaAUQOZndulgzNb,5.194,4.6
+7,Top Songs - South Africa,Libianca,People,88,None,0.551,0.573,0.422,1.31e-05,0.693,26b3oVLrRUaaybJulow9kz,5.194,4.6
+8,Top Songs - South Africa,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,5.194,4.6
+9,Top Songs - South Africa,Ayra Starr,Rush,77,None,0.0369,0.792,0.503,0.00057,0.381,1xs8bOvm3IzEYmcLJVOc34,5.194,4.6
+10,Top Songs - South Africa,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,5.194,4.6
+1,Top Songs - Guatemala,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.262,3.7
+2,Top Songs - Guatemala,Natanael Cano,AMG,90,corrido,0.152,0.772,0.73,0.000107,0.786,1lRtH4FszTrwwlK5gTSbXO,6.262,3.7
+3,Top Songs - Guatemala,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,6.262,3.7
+4,Top Songs - Guatemala,Peso Pluma,PRC,90,sad sierreno,0.0965,0.784,0.826,7.09e-05,0.893,2mpoNBkngUEwnaKoBhZ0vl,6.262,3.7
+5,Top Songs - Guatemala,Carin Leon,Que Vuelvas,89,corrido,0.187,0.491,0.643,0.0,0.779,6Um358vY92UBv5DloTRX9L,6.262,3.7
+6,Top Songs - Guatemala,Cartel De Santa,Shorty Party,87,latin hip hop,0.328,0.928,0.468,4.27e-06,0.47,55ZATsjPlTeSTNJOuW90pW,6.262,3.7
+7,Top Songs - Guatemala,Fuerza Regida,Bebe Dame,81,corrido,0.299,0.529,0.602,0.0,0.756,0IKeDy5bT9G0bA7ZixRT4A,6.262,3.7
+8,Top Songs - Guatemala,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,6.262,3.7
+9,Top Songs - Guatemala,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,6.262,3.7
+10,Top Songs - Guatemala,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,6.262,3.7
+1,Top Songs - Singapore,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,6.48,4.6
+2,Top Songs - Singapore,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,6.48,4.6
+3,Top Songs - Singapore,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,6.48,4.6
+4,Top Songs - Singapore,NewJeans,Ditto,90,k-pop,0.027,0.814,0.641,0.0,0.183,3r8RuvgbX9s7ammBn07D3W,6.48,4.6
+5,Top Songs - Singapore,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.48,4.6
+6,Top Songs - Singapore,Ronghao Li,烏梅子醬,65,chinese singer-songwriter,0.502,0.484,0.546,0.0,0.333,4p9jbhD6N7HpuECGusu6iT,6.48,4.6
+7,Top Songs - Singapore,FIFTY FIFTY,Cupid,79,k-pop,0.652,0.77,0.661,0.0,0.943,4dKa5ZzlGqUy3Wo0yaXKNI,6.48,4.6
+8,Top Songs - Singapore,FIFTY FIFTY,Cupid - Twin Ver.,79,k-pop,0.428,0.782,0.587,1.85e-06,0.76,3Kw7zkALCVxY4wmlnh2IWC,6.48,4.6
+9,Top Songs - Singapore,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,6.48,4.6
+10,Top Songs - Singapore,JVKE,golden hour,88,modern indie pop,0.653,0.515,0.593,0.162,0.153,5odlY52u43F5BjByhxg7wg,6.48,4.6
+1,Top Songs - Norway,UNDERGRUNN,Klikk,63,norwegian pop,0.18,0.93,0.83,0.0,0.944,660mpcWbLmQ8lH5Mq59Wfk,7.365,4.7
+2,Top Songs - Norway,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.365,4.7
+3,Top Songs - Norway,Emma Steinbakken,Floden,70,norwegian pop,0.245,0.367,0.438,4.97e-05,0.142,6TYFXyFTDZ6qwFPuBJfWpK,7.365,4.7
+4,Top Songs - Norway,Emma Steinbakken,Delilah,68,norwegian pop,0.281,0.611,0.578,0.0,0.431,5WnH3XfHwtR7KH7KfVUDqe,7.365,4.7
+5,Top Songs - Norway,Loreen,Tattoo,80,electropop,0.243,0.545,0.779,1.66e-06,0.303,1DmW5Ep6ywYwxc2HMT5BG6,7.365,4.7
+6,Top Songs - Norway,Alessandra,Queen of Kings,78,None,0.0696,0.563,0.908,0.0,0.171,14LdhxElpZS0rKVV4nxtdA,7.365,4.7
+7,Top Songs - Norway,Ramón,tjueto (demo),58,norwegian indie,0.824,0.686,0.253,0.0,0.354,7kSxVn8HvKeHwW3o7W0M2S,7.365,4.7
+8,Top Songs - Norway,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.365,4.7
+9,Top Songs - Norway,Isah,Mysteriet deg,64,norwegian pop,0.554,0.682,0.498,0.0,0.483,206hc217vGSSv4W6d3FF3R,7.365,4.7
+10,Top Songs - Norway,Roc Boyz,Seriøs (feat. Amara),61,norwegian pop,0.034,0.638,0.613,0.0,0.486,1sEYjmfPxDMS0tRxEqbWTy,7.365,4.7
+1,Top Songs - Finland,Costi,Maailman ympäri,66,finnish hip hop,0.103,0.718,0.676,0.159,0.611,0Md23O27tBkiiuzsCTetpl,7.821,5.6
+2,Top Songs - Finland,Käärijä,Cha Cha Cha,72,finnish dance pop,0.00207,0.718,0.791,0.00292,0.743,5RX8T3EoTuXcybAxe6oPAw,7.821,5.6
+3,Top Songs - Finland,KUUMAA,Ylivoimainen,68,finnish dance pop,0.0417,0.587,0.759,0.0,0.687,0tNhrnTkLSMUkql3iTCgW4,7.821,5.6
+4,Top Songs - Finland,Isac Elliot,Kaks,59,finnish dance pop,0.0696,0.756,0.597,0.00298,0.797,2dMNnJmCuOuokPJ9cUB2qC,7.821,5.6
+5,Top Songs - Finland,KUUMAA,Tulipalo,64,finnish dance pop,0.248,0.739,0.678,1.21e-05,0.581,0lPrY8sXUen0bqga0BIeWa,7.821,5.6
+6,Top Songs - Finland,Loreen,Tattoo,80,electropop,0.243,0.545,0.779,1.66e-06,0.303,1DmW5Ep6ywYwxc2HMT5BG6,7.821,5.6
+7,Top Songs - Finland,ibe,shoppaa,61,finnish dance pop,0.0528,0.756,0.603,0.000395,0.808,2q4XiGEHnERJ428M3LyMQA,7.821,5.6
+8,Top Songs - Finland,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.821,5.6
+9,Top Songs - Finland,Turisti,Uudestaan,60,finnish drill,0.0284,0.737,0.752,1.13e-05,0.564,6t8EkW44VBwXPzzCFrCUvO,7.821,5.6
+10,Top Songs - Finland,Gettomasa,Vastustamaton,62,finnish dance pop,0.324,0.613,0.737,0.0,0.484,12zIIWVV5guPmsV7yQGsOM,7.821,5.6
+1,Top Songs - Czech Republic,Calin,Safír,71,czsk emo rap,0.0737,0.711,0.578,0.0,0.448,1tpWtFdAuY9chjl5YhzsTP,6.92,5.2
+2,Top Songs - Czech Republic,STEIN27,Habibi,65,czech hip hop,0.0021,0.706,0.65,1.32e-05,0.749,5FXDsBtTJRSMmmWhFxhAI0,6.92,5.2
+3,Top Songs - Czech Republic,Calin,Dívej,66,czsk emo rap,0.125,0.647,0.551,1.72e-05,0.29,0Pl0foFNy1vuVgx1NHVjSE,6.92,5.2
+4,Top Songs - Czech Republic,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.92,5.2
+5,Top Songs - Czech Republic,Calin,Cikády,63,czsk emo rap,0.0935,0.848,0.537,2.31e-06,0.978,4enbO9cZhJLSZ6Tf21LRnv,6.92,5.2
+6,Top Songs - Czech Republic,Separ,Sunset,60,czsk hip hop,0.237,0.762,0.805,0.0,0.271,4URDQWhb7ylkhuTY2W6hfG,6.92,5.2
+7,Top Songs - Czech Republic,Yzomandias,Novej Svět,58,czech drill,0.0105,0.742,0.73,0.0,0.375,3MmyJIZfTe5abuArcvoJz8,6.92,5.2
+8,Top Songs - Czech Republic,Ektor,Upgrade,55,czech hip hop,0.692,0.819,0.458,5.56e-05,0.526,4o7sNuNNkNVlUombpE3D3F,6.92,5.2
+9,Top Songs - Czech Republic,Calin,Benz,62,czsk emo rap,0.309,0.762,0.742,8.24e-06,0.789,1iOXr3xZSuF62boF7ygB6L,6.92,5.2
+10,Top Songs - Czech Republic,David Guetta,I'm Good (Blue),93,big room,0.00383,0.561,0.965,7.07e-06,0.304,4uUG5RXrOk84mYEfFvj3cK,6.92,5.2
+1,Top Songs - Malaysia,Mahalini,Sial,85,indonesian pop,0.89,0.563,0.431,2.9e-06,0.196,6dXiWwFrcGieqnoLYzPNp5,5.711,3.8
+2,Top Songs - Malaysia,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,5.711,3.8
+3,Top Songs - Malaysia,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,5.711,3.8
+4,Top Songs - Malaysia,NewJeans,OMG,92,k-pop,0.357,0.804,0.771,3.07e-06,0.739,65FftemJ1DbbZ45DUfHJXE,5.711,3.8
+5,Top Songs - Malaysia,Amir Jahari,Hasrat (OST Imaginur),61,malay rap,0.395,0.552,0.25,0.0,0.211,3Q6DYlT649Y1tgyf5We71c,5.711,3.8
+6,Top Songs - Malaysia,NewJeans,Ditto,90,k-pop,0.027,0.814,0.641,0.0,0.183,3r8RuvgbX9s7ammBn07D3W,5.711,3.8
+7,Top Songs - Malaysia,d4vd,Here With Me,92,bedroom pop,0.534,0.574,0.469,9.21e-05,0.288,78Sw5GDo6AlGwTwanjXbGh,5.711,3.8
+8,Top Songs - Malaysia,Awdella,Tertawan Hati,81,indonesian pop,0.661,0.319,0.432,0.0,0.244,3i0h88q1HBtbdIg2bPxs54,5.711,3.8
+9,Top Songs - Malaysia,JVKE,golden hour,88,modern indie pop,0.653,0.515,0.593,0.162,0.153,5odlY52u43F5BjByhxg7wg,5.711,3.8
+10,Top Songs - Malaysia,Dalia Farhana,Langit Yang Sama,63,None,0.807,0.626,0.394,0.0,0.341,2CJvBRL5ZevYir3mbFdcm6,5.711,3.8
+1,Top Songs - Saudi Arabia,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,6.523,4.5
+2,Top Songs - Saudi Arabia,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,6.523,4.5
+3,Top Songs - Saudi Arabia,Mohammed Saeed,Alo Aleky,68,egyptian alternative,0.921,0.671,0.41,0.00181,0.51,0zzrAsIPYKENTWOwZqYjYp,6.523,4.5
+4,Top Songs - Saudi Arabia,Adele,Set Fire to the Rain,40,british soul,0.00408,0.603,0.67,1.68e-06,0.446,7j4OmvkjRz0PrjFADlHfQx,6.523,4.5
+5,Top Songs - Saudi Arabia,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,6.523,4.5
+6,Top Songs - Saudi Arabia,INTERWORLD,METAMORPHOSIS,87,None,0.426,0.593,0.641,0.901,0.147,2ksyzVfU0WJoBpu8otr4pz,6.523,4.5
+7,Top Songs - Saudi Arabia,Tom Odell,Another Love,61,chill pop,0.717,0.442,0.538,2.95e-05,0.139,7jtQIBanIiJOMS6RyCx6jZ,6.523,4.5
+8,Top Songs - Saudi Arabia,Juice WRLD,All Girls Are The Same,84,chicago rap,0.0769,0.671,0.529,0.000335,0.203,4VXIryQMWpIdGgYR4TrjT1,6.523,4.5
+9,Top Songs - Saudi Arabia,Eminem,Mockingbird,90,detroit hip hop,0.209,0.637,0.678,0.0,0.254,561jH07mF1jHuk7KlaeF0s,6.523,4.5
+10,Top Songs - Saudi Arabia,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.523,4.5
+1,Top Songs - Romania,Tzanca Uraganu,"Trotinete - From ""Romina VTM"" The Movie",60,manele,0.344,0.867,0.933,3.83e-05,0.9,1cr9iS5IDEcrxNrRszr6wr,6.477,5.0
+2,Top Songs - Romania,rares,"La tine și la bani - From ""Romina VTM"" The Movie",59,romanian pop,0.359,0.644,0.696,0.0,0.65,2BsJFgVnk4FYTyzyovwQ5A,6.477,5.0
+3,Top Songs - Romania,Ian,Timeout,56,romanian trap,0.266,0.88,0.797,0.0444,0.332,09Ylu166NCvXW8ZY4lA39W,6.477,5.0
+4,Top Songs - Romania,Tzanca Uraganu,Havana,59,manele,0.349,0.895,0.578,0.000556,0.515,4i9Ul89UPf5YPppdOspCH6,6.477,5.0
+5,Top Songs - Romania,Tzanca Uraganu,Alo baza baza,55,manele,0.0789,0.861,0.669,0.00109,0.892,1KDSdCDKLSVJNREpp7OICq,6.477,5.0
+6,Top Songs - Romania,Iuly Neamtu,"Lalele mentolate - From ""Romina VTM"" The Movie",57,manele,0.649,0.844,0.759,0.0074,0.713,7jOlpikiyyYEpPGeJQdcnM,6.477,5.0
+7,Top Songs - Romania,Jador,Skinny,55,manele,0.39,0.757,0.8,0.0,0.896,0PrEHlFBgEsAxwJ3oKgxX3,6.477,5.0
+8,Top Songs - Romania,Stefan Costea,Lipsa Ta,52,None,0.594,0.722,0.518,0.0,0.483,2Vvb9PCb8Sg6nwjvzb0Kwo,6.477,5.0
+9,Top Songs - Romania,AlbertNbn,Terorist,54,romanian trap,0.144,0.876,0.83,0.000318,0.351,043xuu25Tey8erikkqAoIT,6.477,5.0
+10,Top Songs - Romania,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.477,5.0
+1,Top Songs - Hungary,Azahriah,szosziazi,62,hungarian pop,0.135,0.771,0.615,0.000587,0.406,4bHXbXDT0p9exqBsW49fDo,6.086,5.1
+2,Top Songs - Hungary,Azahriah,Introvertált dal,63,hungarian pop,0.126,0.652,0.815,0.0,0.823,2SoIhnJXdHp8oo0w9pktub,6.086,5.1
+3,Top Songs - Hungary,Azahriah,four moods,60,hungarian pop,0.37,0.538,0.669,1.06e-06,0.198,1o0TkBcMTkkOg1KUeB4riK,6.086,5.1
+4,Top Songs - Hungary,Beton.Hofi,BAGIRA,58,hungarian pop,0.194,0.678,0.825,0.0,0.51,18DVypBkvcJtVFzQr5Ly7J,6.086,5.1
+5,Top Songs - Hungary,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,6.086,5.1
+6,Top Songs - Hungary,DESH,Papa,59,hungarian hip hop,0.382,0.833,0.722,9.92e-05,0.425,3XKdJfbBwnxUnn5tdaJoYL,6.086,5.1
+7,Top Songs - Hungary,KKevin,Csavargó,60,hungarian hip hop,0.322,0.848,0.694,0.0,0.626,1jI95q1ZSLZuVNdOMwaoUL,6.086,5.1
+8,Top Songs - Hungary,Azahriah,Pullup,57,hungarian pop,0.106,0.726,0.632,0.0,0.289,6Rc6C6S4lgT5j1OekgI155,6.086,5.1
+9,Top Songs - Hungary,T. Danny,Szeretsz-e,55,hungarian hip hop,0.492,0.95,0.249,0.0,0.311,19VmOgLl88ZWU6WXgatfEM,6.086,5.1
+10,Top Songs - Hungary,Manuel,Toxic,52,hungarian pop,0.197,0.649,0.895,1.96e-06,0.838,1WMymP7Mj6GrI2VReJFSJD,6.086,5.1
+1,Top Songs - Panama,KAROL G,TQG,95,reggaeton,0.673,0.72,0.63,0.0,0.607,0DWdj2oZMBFSzRsi2Cvfzf,6.309,4.4
+2,Top Songs - Panama,Yandel,Yandel 150,87,latin hip hop,0.0492,0.783,0.729,0.000272,0.58,4FAKtPVycI4DxoOHC01YqD,6.309,4.4
+3,Top Songs - Panama,Ozuna,Hey Mor,90,puerto rican pop,0.00302,0.901,0.589,0.000237,0.399,1zsPaEkglFvxjAhrM8yhpr,6.309,4.4
+4,Top Songs - Panama,Feid,Feliz Cumpleaños Ferxxo,87,colombian pop,0.0863,0.865,0.573,0.0,0.563,2CeKVsFFXG4QzA415QygGb,6.309,4.4
+5,Top Songs - Panama,Feid,CHORRITO PA LAS ANIMAS,89,colombian pop,0.114,0.743,0.831,6.43e-05,0.609,0CYTGMBYkwUxrj1MWDLrC5,6.309,4.4
+6,Top Songs - Panama,Manuel Turizo,La Bachata,93,colombian pop,0.583,0.835,0.679,1.98e-06,0.85,5ww2BF9slyYgNOk37BlC4u,6.309,4.4
+7,Top Songs - Panama,Feid,Normal,83,colombian pop,0.034,0.709,0.56,0.0,0.541,0T2pB7P1VdXPhLdQZ488uH,6.309,4.4
+8,Top Songs - Panama,BARBEL,Casaya,55,panamanian pop,0.402,0.751,0.617,0.0,0.387,4iRHjxLojZsyclcODm5NOv,6.309,4.4
+9,Top Songs - Panama,KAROL G,X SI VOLVEMOS,84,reggaeton,0.334,0.794,0.807,0.0,0.575,4NoOME4Dhf4xgxbHDT7VGe,6.309,4.4
+10,Top Songs - Panama,KAROL G,MIENTRAS ME CURO DEL CORA,86,reggaeton,0.855,0.523,0.477,0.0,0.57,6otePxalBK8AVa20xhZYVQ,6.309,4.4
+1,Top Songs - New Zealand,PinkPantheress,Boy's a liar Pt. 2,95,None,0.252,0.696,0.809,0.000128,0.857,6AQbmUe0Qwf5PZnt4HmTXv,7.2,5.4
+2,Top Songs - New Zealand,Miley Cyrus,Flowers,82,pop,0.0632,0.707,0.681,5.15e-06,0.646,4DHcnVTT87F0zZhRPYmZ3B,7.2,5.4
+3,Top Songs - New Zealand,SZA,Kill Bill,93,pop,0.0521,0.644,0.735,0.144,0.418,1Qrg8KqiBpW07V7PNxwwwL,7.2,5.4
+4,Top Songs - New Zealand,The Weeknd,Die For You (with Ariana Grande) - Remix,67,canadian contemporary r&b,0.227,0.575,0.5,0.0,0.506,4W4fNrZYkobj539TOWsLO2,7.2,5.4
+5,Top Songs - New Zealand,Morgan Wallen,Last Night,83,contemporary country,0.467,0.492,0.675,0.0,0.478,7K3BhSpAxZBznislvUMVtn,7.2,5.4
+6,Top Songs - New Zealand,Harry Styles,As It Was,90,pop,0.342,0.52,0.731,0.00101,0.662,4Dvkj6JhhA12EX05fT7y2e,7.2,5.4
+7,Top Songs - New Zealand,Coi Leray,Players,90,new jersey underground rap,0.03,0.954,0.516,7.54e-06,0.624,6UN73IYd0hZxLi8wFPMQij,7.2,5.4
+8,Top Songs - New Zealand,Miguel,Sure Thing,91,dance pop,0.0267,0.684,0.607,0.000307,0.498,0JXXNGljqupsJaZsgSbMZV,7.2,5.4
+9,Top Songs - New Zealand,Libianca,People,88,None,0.551,0.573,0.422,1.31e-05,0.693,26b3oVLrRUaaybJulow9kz,7.2,5.4
+10,Top Songs - New Zealand,RAYE,Escapism.,79,dance pop,0.138,0.538,0.742,4.67e-05,0.25,5mHdCZtVyb4DcJw8799hZp,7.2,5.4

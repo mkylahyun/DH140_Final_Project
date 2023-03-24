@@ -22,3 +22,4 @@ Music exists in all cultures and societies, and many share the appreciation of m
 The Top Songs Playlist for each country is collected through scraping Spotify's API data and is pre-processed to include the playlists and relevant audio features of interest for each. The World Happiness data is sourced from the [World Happiness Report 2022](https://worldhappiness.report/ed/2022/#appendices-and-data) and the World Depression data is sourced from [World Health Organization](https://www.who.int/publications/i/item/depression-global-health-estimates). The two datasets are pre-processed to include features of interests: happiness scores and prevalence of depression. All three were also cleaned to include only countries that are present in all three data sets for cohesiveness. 
 
 ## Link to view project in blog format:
+https://mkylahyun.github.io/mikaylasblog/posts/final_audiofeatures.html
